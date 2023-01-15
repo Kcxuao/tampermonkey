@@ -12,7 +12,7 @@
 let email = random(7) + '@qq.com'
 let password = random(8)
 
-// 生成账号密码
+// 生成数字
 function random(n) {
     let str = ''
 
